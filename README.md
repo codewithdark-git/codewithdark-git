@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithdark-git
-- 👀 I’m interested in ... AI 
-- 🌱 I’m currently learning ... AI With Python
+- 👀 I’m interested in ... AI, ML, DL
+- 🌱 I’m currently learning ... AI, ML,DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
