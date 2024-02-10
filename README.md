@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dark</h1>
 <h3 align="center">A Bachelor of Science in Artificial Intelligence (BSAI) Student from Pakistan</h3>
+<br>
+<div align="center">
+  <a href="https://github.com/codewithdark-git/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/codewithdark-git/awesome-README-templates" alt="Stars Badge"/></a>
+<a href="https://github.com/codewithdark-git/awesome-README-templates/network/members"><img src="https://img.shields.io/github/forks/codewithdark-git/awesome-README-templates" alt="Forks Badge"/></a>
+<a href="https://github.com/codewithdark-git/awesome-README-templates/pulls"><img src="https://img.shields.io/github/issues-pr/codewithdark-git/awesome-README-templates" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/codewithdark-git/awesome-README-templates/issues"><img src="https://img.shields.io/github/issues/codewithdark-git/awesome-README-templates" alt="Issues Badge"/></a>
+<a href="https://github.com/codewithdark-git/awesome-README-templates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codewithdark-git/awesome-README-templates?color=2b9348"></a>
+<a href="https://github.com/codewithdark-git/awesome-README-templates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/codewithdark-git/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
+</div>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
