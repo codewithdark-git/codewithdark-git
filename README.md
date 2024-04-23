@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dark</h1>
+<h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
 <h3 align="center">A Bachelor of Science in Artificial Intelligence (BSAI) Student from Pakistan</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
