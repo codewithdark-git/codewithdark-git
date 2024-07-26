@@ -60,6 +60,13 @@ class Attributes(Dark):
 
 	return langs, specialities, ide, pc
 ```
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,docker,gitlab,github,git,c,cpp,css,html" />
+  </a>
+</p>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=codewithdark-git&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
