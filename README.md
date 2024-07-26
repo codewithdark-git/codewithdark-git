@@ -33,32 +33,29 @@ class Attributes(Dark):
         ide           = ['pycharm','vscode', 'colab']
         pc            = {
             systems = {
-    'MacOS': {
-        'None'
-    },
-    'Windows': {
-        'Lenovo ThinkPad': {
-            'processor': 'Intel(R) Core(TM) i5-7300U CPU',
-            'ram'      : '8gb',
-            'gpu'      : 'None'
-        }
-    },
-    # Dream System with this performance
-    """
-        'Custom': {
-            'High Performance System': {
-                'processor': 'Intel(R) Core(TM) i9-12900K CPU',
-                'ram'      : '64gb',
-                'gpu'      : 'NVIDIA GeForce RTX 3090'
-            },
-            'Extreme Performance System': {
-                'processor': 'AMD Ryzen 9 5950X',
-                'ram'      : '128gb',
-                'gpu'      : 'NVIDIA Tesla A100'
-            }
-        }
-    """
-   }
+		'MacOS': 'None,
+                'Windows': {
+		        'Lenovo ThinkPad': {
+		            'processor': 'Intel(R) Core(TM) i5-7300U CPU',
+		            'ram'      : '8gb',
+		            'gpu'      : 'None'
+		        }
+		    # Dream System with this performance
+		    """
+		        'Custom': {
+		            'High Performance System': {
+		                'processor': 'Intel(R) Core(TM) i9-12900K CPU',
+		                'ram'      : '64gb',
+		                'gpu'      : 'NVIDIA GeForce RTX 3090'
+		            }
+                         'Extreme Performance System': {
+                                'processor': 'AMD Ryzen 9 5950X',
+		                'ram'      : '128gb',
+		                'gpu'      : 'NVIDIA Tesla A100'
+		            }
+		        """
+			},
+		   }
 
 
 	return langs, specialities, ide, pc
