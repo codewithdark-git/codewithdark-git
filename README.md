@@ -33,7 +33,7 @@ class Attributes(Dark):
         ide           = ['pycharm','vscode', 'colab']
         pc            = {
             systems = {
-		'MacOS': 'None,
+		'MacOS': 'None',
                 'Windows': {
 		        'Lenovo ThinkPad': {
 		            'processor': 'Intel(R) Core(TM) i5-7300U CPU',
@@ -42,8 +42,7 @@ class Attributes(Dark):
 		        }
 		    # Dream System with this performance
 		    """
-		        'Custom': {
-		            'High Performance System': {
+		        'High Performance System': {
 		                'processor': 'Intel(R) Core(TM) i9-12900K CPU',
 		                'ram'      : '64gb',
 		                'gpu'      : 'NVIDIA GeForce RTX 3090'
@@ -55,6 +54,7 @@ class Attributes(Dark):
 		            }
 		        """
 			},
+			}
 		   }
 
 
