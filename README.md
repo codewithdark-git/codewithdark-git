@@ -8,7 +8,7 @@ class Dark:
 
 class Attributes(Dark):
     @property
-    def contact(self) -> Tuple[str, str, str], str:
+    def contact(self) -> Tuple[str]:
         linkedin  = "in/codewithdark"
         facebook  = "codewithdark.fb"
         email     = "codewithdark90@gmail.com"
