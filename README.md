@@ -6,6 +6,7 @@ from typing import Tuple, List, Dict
 class Dark:
     pass
 
+@GPU_poor
 class Attributes(Dark):
     @property
     def contact(self) -> Tuple[str]:
@@ -34,19 +35,19 @@ class Attributes(Dark):
         ide           = ['pycharm','vscode', 'colab']
         pc            = {
             systems = {
-		'MacOS': 'None',
+		'MacOS': None,
                 'Windows': {
 		        'Lenovo ThinkPad': {
 		            'processor': 'Intel(R) Core(TM) i5-7300U CPU',
 		            'ram'      : '8gb',
-		            'gpu'      : 'None'
+		            'gpu'      : None
 		        }
 		    # Dream System with this performance
 		    """
 		        'High Performance System': {
 		                'processor': 'Intel(R) Core(TM) i9-12900K CPU',
 		                'ram'      : '64gb',
-		                'gpu'      : 'NVIDIA GeForce RTX 3090'
+		                'gpu'      : 'NVIDIA GeForce RTX 4090'
 		            }
                          'Extreme Performance System': {
                                 'processor': 'AMD Ryzen 9 5950X',
