@@ -152,7 +152,7 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=codewithdark-git&theme=dark">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=codewithdark-git&theme=transparent">
 </p>
 
 
@@ -161,8 +161,8 @@ if __name__ == "__main__":
 
 <p align="center">
 	
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdark-git&size_weight=0.0005&count_weight=0.3&layout=donut&theme=dark">
+  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&show_icons=true&count_private=true&theme=transparent">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdark-git&size_weight=0.0005&count_weight=0.3&layout=donut&theme=transparent">
 </p>
  
 
