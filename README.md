@@ -154,9 +154,9 @@ if __name__ == "__main__":
 
 [![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithdark-git&theme=tokyo-night&radius=8)](https://github.com/ES7/github-readme-activity-graph)
 
+---
 
-
-
+![codewithdark-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=transparent&hide_border=true)
 
 ---
 
