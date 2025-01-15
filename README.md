@@ -147,25 +147,24 @@ if __name__ == "__main__":
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,docker,gitlab,github,git,c,cpp,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,visualstudio,vscode,replit,docker,kubernetes,gitlab,github,git,anaconda,pytorch,tensorflow,sklearn,opencv,flask,fastapi,selenium,c,cpp,css,html" />
   </a>
 </p>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=codewithdark-git&theme=transparent">
-</p>
+
+[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithdark-git&theme=tokyo-night&radius=8)](https://github.com/ES7/github-readme-activity-graph)
+
 
 
 ---
 
 
-<p align="center">
-	
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&show_icons=true&count_private=true&theme=transparent">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdark-git&size_weight=0.0005&count_weight=0.3&layout=donut&theme=transparent">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdark-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent" height="200" alt="languages graph"  />
+</div>
  
-
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithdark-git&style=for-the-badge&color=orange" alt=""/>
