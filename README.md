@@ -156,7 +156,13 @@ if __name__ == "__main__":
 
 ---
 
-![codewithdark-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=transparent&hide_border=true)
+<div align="center";>
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=transparent&hide_border=true" 
+        alt="codewithdark-git's Streak" 
+        style="max-width: 100%; height: auto;"
+    />
+</div>
 
 ---
 
