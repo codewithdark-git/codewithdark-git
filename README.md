@@ -151,16 +151,12 @@ if __name__ == "__main__":
   </a>
 </p>
 
-
-[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithdark-git&theme=tokyo-night&radius=8)](https://github.com/ES7/github-readme-activity-graph)
-
 ---
 
 <div align="center";>
-    <img 
+    <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=transparent&hide_border=true" 
         alt="codewithdark-git's Streak" 
-        style="max-width: 100%; height: auto;"
     />
 </div>
 
