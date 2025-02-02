@@ -143,6 +143,11 @@ if __name__ == "__main__":
     """)
 
 ```
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <h2 align="center">Skills </h2>
 
 <p align="center">
