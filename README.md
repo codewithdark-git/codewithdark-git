@@ -148,7 +148,7 @@ if __name__ == "__main__":
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,visualstudio,vscode,replit,docker,kubernetes,gitlab,github,git,anaconda,pytorch,tensorflow,sklearn,opencv,flask,fastapi,selenium,c,cpp,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,visualstudio,vscode,replit,docker,kubernetes,aws,gcp,heroku,githubactions,bash,mysql,gitlab,github,git,anaconda,pytorch,tensorflow,sklearn,opencv,flask,fastapi,selenium,c,cpp,css,HTML,latex" />
   </a>
 </p>
 
