@@ -87,12 +87,12 @@ class DarkAttributes(Dark):
         """
         return {
             "core_expertise": {
-                "expert": ["Python"],
-                "intermediate": ["C++", "AI", "ML", "DL"],
-                "learning": ["Assembly", "Julia", "Java"]
+                "expert": ["Python", "CV", "NLP", "Agentic"],
+                "intermediate": ["LLM", "vLLM", "Maths"],
+                "learning": ["RL", "Julia", "JAX"]
             },
             "specialization": [
-                "Web/App Python Development",
+                "AI/ML Solution",
                 "Backend Architecture",
                 "Artificial Intelligence"
             ],
