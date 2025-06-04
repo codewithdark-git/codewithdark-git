@@ -76,7 +76,7 @@ class DarkAttributes(Dark):
         """
         return (
             ['Urdu', 'Poshto', 'English'],  # Language Modules
-            18  # System Uptime (Years)
+            19  # System Uptime (Years)
         )
 
     @property
