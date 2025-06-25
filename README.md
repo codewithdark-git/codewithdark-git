@@ -127,23 +127,9 @@ class DarkAttributes(Dark):
         ╚════════════════════════════════════════════════╝
         """
 
-if __name__ == "__main__":
-    # Initialize Dark Terminal
-    terminal = Terminal()
-    profile = DarkAttributes()
-    
-    # System Status
-    print(f"""
-    ╔═════════════════════════════════════════════════════════════════════════╗
-    ║                       System Status                                     ║
-    ╠═════════════════════════════════════════════════════════════════════════╣
-    ║ System Boot Time : {terminal.boot_time.strftime('%Y-%m-%d %H:%M:%S')}   ║
-    ║ Profile Version  : {profile.version}                                    ║
-    ║ Status           : {terminal.status}                                    ║
-    ╚═════════════════════════════════════════════════════════════════════════╝
-    """)
-
 ```
+
+<a href="https://gitroll.io/profile/uWPBLuoaeMpSp9pOht1xQu6fJdqs2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWPBLuoaeMpSp9pOht1xQu6fJdqs2?theme=midnight" alt="GitRoll Profile Badge"/></a>
 
 <h2 align="center">Skills </h2>
 
