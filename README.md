@@ -141,7 +141,7 @@ class DarkArchitecture(CodeWithDark):
                 }
             },
             "cloud_platforms": ["AWS ☁️", "GCP 🌐", "Azure 💙"],
-            "favorite_frameworks": ["PyTorch 🔥", "TensorFlow 🧠", "FastAPI ⚡", "Flask 🌶️"]
+            "favorite_frameworks": ["PyTorch 🔥", "Transformers 🧠", "JAX 👾", "FastAPI ⚡"]
         }
 
     def current_projects(self) -> List[str]:
@@ -162,9 +162,9 @@ class DarkArchitecture(CodeWithDark):
         """
         return [
             "🌙 I code better at night (Night Owl Developer)",
-            "🎵 I debug to Lo-Fi Hip Hop beats",
-            "🍕 Pizza is my debugging fuel",
-            "🎮 I believe game development teaches the best programming patterns",
+            "🧠 I train neural networks while drinking chai ☕",
+            "🐍 Python is my native language (literally dream in it)",
+            "⚡ I optimize algorithms for fun, not just work",
             "📖 I read research papers like novels",
             "🚀 My GitHub is my second home"
         ]
