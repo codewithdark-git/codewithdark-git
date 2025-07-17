@@ -1,171 +1,262 @@
-<h2 align="center">About Me 🔥</h2>
+<div align="center">
+  <h1>🌟 About Me </h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Researcher;GPU+Poor+but+Dream+Rich;Building+the+Future+with+Code;I+Love+Open+Source;" alt="Typing SVG" />
+</div>
+
+<br>
 
 ```python
-                    
-                    ╔══════════════════════════════════════════════════════════════════════════════════╗
-                    ║                                                                                  ║
-                    ║                            > CodeWithDark's Terminal                             ║
-                    ║                                                                                  ║
-                    ║        AI/ML Engineer & Researcher | (GPU Poor) LLMs, NLP & Computer Vision |    ║
-                    ║                    Applied AI & Innovating with Open Source                      ║    
-                    ║                                                                                  ║
-                    ║                 > CodeWithDark | Your Friendly Dev Environment <                 ║
-                    ║                                                                                  ║
-                    ╚══════════════════════════════════════════════════════════════════════════════════╝
-                    
+                        ╔══════════════════════════════════════════════════════════════════════════════════╗
+                        ║                                                                                  ║ 
+                        ║                     🚀 CodeWithDark's Neural Network Terminal                    
+                        ║                                                                                 
+                        ║    AI/ML Engineer & Researcher | (GPU Poor) LLMs, NLP & Computer Vision |        
+                        ║                  Applied AI & Innovating with Open Source                            
+                        ║                                                                                  
+                        ║                 > System Status: Online | Learning | Building <                  
+                        ║                                                                                  ║
+                        ╚══════════════════════════════════════════════════════════════════════════════════╝
 
 
-from typing import Tuple, List, Dict
+from typing import Tuple, List, Dict, Optional
 from dataclasses import dataclass
 from datetime import datetime
+import asyncio
 
-class Terminal:
-    """Base terminal interface"""
+class NeuralTerminal:
+    """Advanced AI Development Interface"""
     def __init__(self):
         self.boot_time = datetime.now()
-        self.status = "Running..."
+        self.status = "🔥 Optimizing Neural Pathways..."
+        self.passion_level = float('inf')
 
-class Dark:
-    """Core system interface"""
+class CodeWithDark:
+    """Core AI System Architecture"""
     def __init__(self):
         self.codename = "CodeWithDark"
-        self.version = "1.0.0"
+        self.version = "2.0.0-beta"
+        self.mission = "Democratizing AI, One Line at a Time"
 
-def GPU_poor(cls):
+def GPU_poor_but_spirit_rich(cls):
     """
-    ⚠️ System Status: GPU Bottleneck Detected
-    Current: Integrated Graphics
-    Desired: NVIDIA RTX 4090 | Tesla A100
+    ⚠️ Hardware Status: GPU Bottleneck Detected
+    Current Reality: Integrated Graphics 😢
+    Dream Setup: NVIDIA RTX 4090 | Tesla A100 💫
+    Motto: "Great code doesn't need great hardware, but it helps!"
     """
     return cls
 
 @dataclass
-class SystemInfo:
+class SystemSpecs:
     processor: str
     ram: str
-    gpu: str = None
+    gpu: Optional[str] = None
+    dreams: str = "Unlimited"
 
-@GPU_poor
-class DarkAttributes(Dark):
+@GPU_poor_but_spirit_rich
+class DarkArchitecture(CodeWithDark):
     """
-    🎯 Primary Interface for CodeWithDark's Development Environment
-    Status: Online | Active | Coding
+    🎯 Primary Interface for CodeWithDark's Development Ecosystem
+    Status: Online | Learning | Building | Sharing
     """
     
-    def __boot_sequence(self) -> None:
-        """Initialize core systems"""
-        pass
+    def __init__(self):
+        super().__init__()
+        self.initialize_neural_networks()
+    
+    async def initialize_neural_networks(self):
+        """Boot sequence for AI systems"""
+        await asyncio.sleep(0.1)  # Simulating deep learning
+        print("🧠 Neural pathways: Activated")
+        print("📚 Knowledge base: Continuously expanding")
+        print("🤝 Collaboration mode: Always ON")
 
     @property
-    def social_matrix(self) -> Tuple[str, str, str, str]:
+    def connect_with_me(self) -> Dict[str, str]:
         """
-        💫 Communication Channels
-        Status: Always Open for Collaboration
+        🌐 Multi-dimensional Communication Matrix
+        Status: Always Open for Innovation & Collaboration
         """
-        return (
-            "linkedin: in/codewithdark",
-            "facebook: codewithdark.fb",
-            "email: codewithdark90@gmail.com",
-            "linktree: linktr.ee/codewithdark"
-        )
+        return {
+            "professional": "linkedin.com/in/codewithdark",
+            "social": "facebook.com/codewithdark.fb",
+            "email": "codewithdark90@gmail.com",
+            "links": "linktr.ee/codewithdark",
+            "motto": "Let's build the future together! 🚀"
+        }
 
     @property
-    def human_metadata(self) -> Tuple[List[str], int]:
+    def human_interface(self) -> Dict[str, any]:
         """
-        🌍 Human Interface Properties
+        🌍 Human-AI Interface Properties
         """
-        return (
-            ['Urdu', 'Poshto', 'English'],  # Language Modules
-            19  # System Uptime (Years)
-        )
+        return {
+            "languages": ['Urdu', 'Poshto', 'English'],
+            "age": 19,
+            "location": "🌍 Global Digital Nomad",
+            "timezone": "UTC+5 (Pakistan)",
+            "coffee_dependency": "High ☕",
+            "debugging_superpower": "Rubber Duck Debugging 🦆"
+        }
 
     @property
-    def tech_stack(self) -> dict:
+    def tech_arsenal(self) -> Dict[str, any]:
         """
-        🚀 Technical Capabilities
-        Status: Continuously Learning & Upgrading
+        🛠️ Technical Capabilities & Arsenal
+        Status: Continuously Evolving & Upgrading
         """
         return {
             "core_expertise": {
-                "expert": ["Python", "CV", "NLP", "Agentic"],
-                "intermediate": ["LLM", "vLLM", "Maths"],
-                "learning": ["RL", "Julia", "JAX"]
+                "🔥 expert": ["Python", "Computer Vision", "NLP", "Agentic AI"],
+                "📈 intermediate": ["LLMs", "vLLM", "Mathematics", "Deep Learning"],
+                "🌱 learning": ["Reinforcement Learning", "Julia", "JAX", "Quantum Computing"]
             },
             "specialization": [
-                "AI/ML Solution",
-                "Backend Architecture",
-                "Artificial Intelligence"
+                "🤖 AI/ML Solution Architecture",
+                "🏗️ Backend System Design",
+                "🧠 Artificial Intelligence Research",
+                "📊 Data Science & Analytics"
             ],
-            "development_env": {
-                "primary_ide": ["PyCharm", "VSCode", "Google Colab"],
-                "current_system": SystemInfo(
+            "development_environment": {
+                "preferred_ides": ["PyCharm 🐍", "VSCode ⚡", "Google Colab 🔬"],
+                "current_battlestation": SystemSpecs(
                     processor="Intel(R) Core(TM) i5-7300U CPU",
                     ram="8GB",
-                    gpu=None
+                    gpu="Integrated Graphics (The Struggle is Real)",
                 ),
-                "dream_setup": {
-                    "performance": SystemInfo(
-                        processor="Intel(R) Core(TM) i9-12900K CPU",
+                "dream_setups": {
+                    "realistic_dream": SystemSpecs(
+                        processor="Intel(R) Core(TM) i9-12900K",
                         ram="64GB",
                         gpu="NVIDIA GeForce RTX 4090"
                     ),
-                    "extreme": SystemInfo(
+                    "ultimate_fantasy": SystemSpecs(
                         processor="AMD Ryzen 9 5950X",
                         ram="128GB",
-                        gpu="NVIDIA Tesla A100"
+                        gpu="NVIDIA Tesla A100 (One can dream!)"
                     )
                 }
-            }
+            },
+            "cloud_platforms": ["AWS ☁️", "GCP 🌐", "Azure 💙"],
+            "favorite_frameworks": ["PyTorch 🔥", "TensorFlow 🧠", "FastAPI ⚡", "Flask 🌶️"]
         }
+
+    def current_projects(self) -> List[str]:
+        """
+        🚧 What I'm Currently Building
+        """
+        return [
+            "🤖 Custom LLM Fine-tuning Pipeline",
+            "👁️ Computer Vision for Medical Imaging",
+            "🔊 NLP Sentiment Analysis Tool",
+            "🌟 Open Source AI Utilities",
+            "📚 AI Education Content"
+        ]
+
+    def fun_facts(self) -> List[str]:
+        """
+        🎲 Random Facts About This Human
+        """
+        return [
+            "🌙 I code better at night (Night Owl Developer)",
+            "🎵 I debug to Lo-Fi Hip Hop beats",
+            "🍕 Pizza is my debugging fuel",
+            "🎮 I believe game development teaches the best programming patterns",
+            "📖 I read research papers like novels",
+            "🚀 My GitHub is my second home"
+        ]
 
     def __str__(self) -> str:
         return f"""
-        ╔════ CodeWithDark's Development Environment ════╗
-        ║ Status    : Active                             ║
-        ║ Focus     : Python | Backend | AI              ║
-        ║ GPU       : Pending Upgrade...                 ║
-        ╚════════════════════════════════════════════════╝
+        ╔══════ CodeWithDark's Neural Network Status ══════╗
+        ║ 🔋 Status    : Fully Charged & Ready            ║
+        ║ 🎯 Focus     : Python | AI/ML | Backend         ║
+        ║ 💻 Hardware  : GPU Upgrade in Progress...       ║
+        ║ 🌟 Mission   : Building AI for Everyone         ║
+        ║ 📊 Mood      : Optimistic & Innovative          ║
+        ╚══════════════════════════════════════════════════╝
         """
 
+# Initialize the system
+dark_system = DarkArchitecture()
+print(dark_system)
 ```
 
-
-<a href="https://gitroll.io/profile/uWPBLuoaeMpSp9pOht1xQu6fJdqs2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWPBLuoaeMpSp9pOht1xQu6fJdqs2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
-
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,visualstudio,vscode,replit,docker,kubernetes,aws,gcp,heroku,githubactions,bash,mysql,gitlab,github,git,anaconda,pytorch,tensorflow,sklearn,opencv,flask,fastapi,selenium,c,cpp,css,HTML,latex" />
-  </a>
-</p>
-
----
-
-<div align="center";>
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=transparent&hide_border=true" 
-        alt="codewithdark-git's Streak" 
-    />
+<div align="center">
+  <img src="https://github.com/codewithdark-git/codewithdark-git/raw/main/assets/coding.gif" width="400" alt="Coding GIF"/>
 </div>
 
 ---
 
+## 🎯 Current Mission: Democratizing AI
+
+> *"The best way to predict the future is to create it. And the best way to create it is to share it."*
+
+I'm on a mission to make AI accessible to everyone, regardless of their background or resources. Through open-source contributions, educational content, and innovative solutions, I'm building bridges between complex AI concepts and real-world applications.
+
+### 🌟 What Sets Me Apart:
+- **🔥 Passion-Driven Development**: Every line of code is written with purpose
+- **🌍 Global Perspective**: Multilingual approach to problem-solving
+- **🤝 Community First**: Open source contributor and mentor
+- **📚 Continuous Learner**: Always exploring cutting-edge technologies
+- **💡 Innovation Mindset**: Turning constraints into creative solutions
+
+---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,django,docker,kubernetes,aws,gcp,azure,heroku,mysql,sqlite,postgresql,mongodb,redis,git,github,gitlab,githubactions,vscode,pycharm,kaggle,anaconda,linux,bash,nginx,postman,selenium,latex,cmake&theme=dark" />
+</div>
+
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdark-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdark-git&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdark-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdark-git&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact&card_width=320" height="165" alt="Top Languages" />
+</div>
+
+
 ---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithdark-git&style=for-the-badge&color=orange" alt=""/>
+## 🎯 What I'm Building
+
+```python
+focus_areas = {
+    "🧠 AI/ML": ["LLMs", "Computer Vision", "NLP", "Agentic AI"],
+    "🔧 Backend": ["FastAPI", "System Architecture", "Cloud Solutions"],
+    "🌟 Learning": ["Reinforcement Learning", "Julia", "JAX"]
+}
+```
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/codewithdark-git/codewithdark-git/raw/main/assets/github-snake.svg" alt="Snake Game" />
 </div>
 
+---
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;The+future+of+AI+is+collaborative!" alt="Closing Message" />
+</div>
 
+<div align="center">
+  
+### 🌟 *"In a world full of algorithms, be the one who codes with heart."*
 
+**Happy Coding! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by CodeWithDark | Last updated: Auto-sync with neural networks</sub>
+</div>
