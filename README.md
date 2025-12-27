@@ -44,7 +44,7 @@ def GPU_poor_but_spirit_rich(cls):
     """
     ⚠️ Hardware Status: GPU Bottleneck Detected
     Current Reality: Integrated Graphics 😢
-    Dream Setup: NVIDIA RTX 4090 | Tesla A100 💫
+    Dream Setup: NVIDIA RTX 5090 | DGX Spark |Tesla A100 💫
     Motto: "Great code doesn't need great hardware, but it helps!"
     """
     return cls
@@ -130,8 +130,8 @@ class DarkArchitecture(CodeWithDark):
                 "dream_setups": {
                     "realistic_dream": SystemSpecs(
                         processor="Intel(R) Core(TM) i9-12900K",
-                        ram="64GB",
-                        gpu="NVIDIA GeForce RTX 4090"
+                        ram="128GB",
+                        gpu="NVIDIA GeForce RTX 5090"
                     ),
                     "ultimate_fantasy": SystemSpecs(
                         processor="AMD Ryzen 9 5950X",
