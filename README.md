@@ -233,11 +233,6 @@ focus_areas = {
     "🌟 Learning": ["Reinforcement Learning", "Julia", "JAX"]
 }
 ```
----
-
-## HabitHub
-
-<img src="https://habithubgithub.vercel.app/api/tracker?user=codewithdark-git&theme=dark&size=medium&days=7&shape=circle&template=developer&tagline=Build%20consistency%2C%20one%20day%20at%20a%20time" alt="HabitHub" />
 
 ---
 
