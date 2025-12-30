@@ -221,6 +221,7 @@ I'm on a mission to make AI accessible to everyone, regardless of their backgrou
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdark-git&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact&card_width=320" height="165" alt="Top Languages" />
 </div>
 
+![HabitHub](https://habithubgithub.vercel.app/api/tracker?user=codewithdark-git&theme=dark)
 
 ---
 
